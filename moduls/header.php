@@ -1,10 +1,11 @@
 <?php
 ?>
+
 <header>
-    <a href="./">CLOUD</a>
+    <a href="./"><h1>CLOUD-STORE</h1></a>
     <form action="" method="get">
-        <input type="text" placeholder="поиск">
-        <input type="submit" value='Найти'>
+        <input class='search_input' type="text" placeholder="search">
+        <input class="search_button" type="submit" value='Search'>
     </form>
-    <a href="#">П</a>
+    <a href="#"><img class='avatar' src="/img/avatar.png" alt=""></a>
 </header>

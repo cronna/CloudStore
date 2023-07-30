@@ -1,7 +1,5 @@
 <?php
-
 ?>
-
 <!doctype html>
 <html lang="ru">
     <head>
@@ -13,16 +11,15 @@
         <link rel="stylesheet" href="./assets/style/style.css">
     </head>
     <body>
-        <?php require './moduls/header.php' ?>
+        <?php require './moduls/header.php'?>
         <div class="container">
             <div class="item">
                 <img src="" alt="">
-                <h4 class="title_item">Название</h4>
+                <h4 class="title_item">Название товара</h4>
                 <div class="rating">4.5⭐</div>
-                <span class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aspernatur cum dolorum nesciunt tempora temporibus.</span>
-                <a href="#">Купить</a>
+                <span class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A assumenda cupiditate doloremque dolorum enim!</span>
+                <a href="#">Подробнее</a>
             </div>
         </div>
     </body>
-
 </html>
